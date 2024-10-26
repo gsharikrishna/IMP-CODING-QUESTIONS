@@ -1,5 +1,5 @@
 ALL ADDED CODES CAN VISIBLE HERE
 
 1233 --> Remove Sub-Folders from the Filesystem
-         Path:LeetCode
+         Path:LeetCode Folder
          
